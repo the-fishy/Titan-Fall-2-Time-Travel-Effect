@@ -3,9 +3,9 @@ Project files for the Unity tutorial on how to create the Titan Fall 2 Time Trav
 
 Download the [Time Travel Script](https://github.com/the-fishy/Titan-Fall-2-Time-Travel-Effect/tree/final/Assets/Scripts)
 
-Download the [Starter Files]
+Download the [Starter Files](https://github.com/the-fishy/Titan-Fall-2-Time-Travel-Effect/releases)
 
-Download the [Finished Files]<br/>
+Download the [Finished Files](https://github.com/the-fishy/Titan-Fall-2-Time-Travel-Effect/releases)
 
 ## 
 
